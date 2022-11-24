@@ -10,6 +10,7 @@ createApp(App)
     .use(VueGoogleMaps, {
         load: {
             key: 'AIzaSyBRW7vgr-VPLDKbGVbIL9ZsqLvIoxUd5Cc',
+            libraries: "places",
         },
     })
     .mount('#app');
