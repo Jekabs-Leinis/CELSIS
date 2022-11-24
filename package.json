@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.18.9",
+    "@fawmi/vue-google-maps": "^0.9.79",
     "core-js": "^3.25.0",
     "pinia": "^2.0.21",
     "vue": "^3.2.37",
